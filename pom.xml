@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.feryadialoi</groupId>
-    <artifactId>fluent-result</artifactId>
+    <artifactId>fluent-tuple</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>fluent-tuple</name>
     <description>fluent-tuple</description>
